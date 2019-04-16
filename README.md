@@ -13,7 +13,7 @@ Terraform configuration for AWS Infrastructure for WFD
    - installs PostgreSQL on ```psql_wfd```
    - Creates a DB ```weather_data```
    - creates tables inside DB ```weather_data```
-- Create Terraform variables configuration
-- Create Terraform outputs configuration
+- Put Terraform variables in separate file
+- Put Terraform variables in separate file
 - Consider putting the DB part in a module
 - Create thorough README
